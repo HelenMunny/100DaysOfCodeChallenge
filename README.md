@@ -16,3 +16,5 @@
  
  ## day-1
  >>>> Passed time learning version control.
+ ## day-2
+ >>>> Learned git branching.
