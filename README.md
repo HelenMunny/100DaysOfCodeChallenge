@@ -1,15 +1,15 @@
 # 100daysofcodechallenge
 ## commitments
->>>> Try to code 2 hours everyday for the next 100 days.
->>>> If 2 hours is not possible some day, 1hour will be ok.
->>>> Update the README.md file of this repo regularly, write what you have done and learnt.
->>>> post publicly in linkedIn/Facebook/Twitter every three days.
+>>>> Try to code 2 hours everyday for the next 100 days. <br>
+>>>> If 2 hours is not possible some day, 1hour will be ok. <br>
+>>>> Update the README.md file of this repo regularly, write what you have done and learnt. <br>
+>>>> post publicly in linkedIn/Facebook/Twitter every three days. <br>
 
 ## 100 days' resolutions
- >>>> Day 1-5 : Version control. git & github, IDE terminal, command prompt, git bash, modify old projects
- >>>> day 6-10: SASS. Build 2 projects
- >>>> day 11-20 : vanilla javascript
- >>>> day 21-30: projects with vanilla js
- >>>> day 31-40: javascript 30 website projects (advanced) 
+ >>>> Day 1-5 : Version control. git & github, IDE terminal, command prompt, git bash, modify old projects <br>
+ >>>> day 6-10: SASS. Build 2 projects <br>
+ >>>> day 11-20 : vanilla javascript <br>
+ >>>> day 21-30: projects with vanilla js <br>
+ >>>> day 31-40: javascript 30 website projects (advanced)  <br>
  
- ## day-1 
+ ## day-1 ##day-2 ##day-3
