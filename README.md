@@ -12,4 +12,10 @@
  >>>> day 21-30: projects with vanilla js <br>
  >>>> day 31-40: javascript 30 website projects (advanced)  <br>
  
- ## day-1 ##day-2 ##day-3
+ ## #day-1 #day-2 #day-3 #day-4 #day-5
+ >>>> done modifying 5 old projects and uploaded to github <br>
+ >>>> revised CSS floats, flexbox, grid, bootstrap <br>
+ >>>> practiced version control (git & github, git bash, command prompt) <br>
+
+## #day-6 
+>>>> learned the basics of SASS.
