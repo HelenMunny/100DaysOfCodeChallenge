@@ -17,5 +17,10 @@
  >>>> revised CSS floats, flexbox, grid, bootstrap <br>
  >>>> practiced version control (git & github, git bash, command prompt) <br>
 
-## #day-6 
->>>> learned the basics of SASS.
+## #day-6 - #day-14
+>>>> learned the basics of SASS. <br>
+>>>> was stuck with some advanced SCSS properties like mixins, functions <br>
+>>>> built a decently big SCSS project from Brad Traversy YouTube channel BUT <br>
+>>>> did not copy code, just looked at the design and coded by myself <br>
+>>>> got comfortable with SCSS now <br>
+>>>> started practicing vanilla javascript from today <br>
