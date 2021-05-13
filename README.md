@@ -24,3 +24,10 @@
 >>>> did not copy code, just looked at the design and coded by myself <br>
 >>>> got comfortable with SCSS now <br>
 >>>> started practicing vanilla javascript from today <br>
+
+## #day-15 - #day22
+>>>> practiced css art to understand css deeply. <br>
+>>>> following vanilla javascript tutorial of John Smilga from coding addict youtube channel <br>
+>>>> made 2 art - pencil animation and rocket moving in the space
+
+
