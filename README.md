@@ -8,9 +8,9 @@
 ## 100 days' resolutions
  >>>> Day 1-5 : Version control. git & github, IDE terminal, command prompt, git bash, modify old projects <br>
  >>>> day 6-10: SASS. Build 2 projects <br>
- >>>> day 11-20 : vanilla javascript <br>
- >>>> day 21-30: projects with vanilla js <br>
- >>>> day 31-40: javascript 30 website projects (advanced)  <br>
+ >>>> day 11-25 : vanilla javascript <br>
+ >>>> day 26-35: vanilla js simple projects and css art learning.
+ 
  
  ## #day-1 #day-2 #day-3 #day-4 #day-5
  >>>> done modifying 5 old projects and uploaded to github <br>
