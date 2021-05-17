@@ -30,4 +30,8 @@
 >>>> following vanilla javascript tutorial of John Smilga from coding addict youtube channel <br>
 >>>> made 2 art - pencil animation and rocket moving in the space
 
+## #day-23 - #day-26
+>>>> still practiced vanilla javascript
+>>>> grasping higher order, callbacks, arrows, array operators etc.
+
 
