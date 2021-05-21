@@ -28,10 +28,15 @@
 ## #day-15 - #day22
 >>>> practiced css art to understand css deeply. <br>
 >>>> following vanilla javascript tutorial of John Smilga from coding addict youtube channel <br>
->>>> made 2 art - pencil animation and rocket moving in the space
+>>>> made 2 art - pencil animation and rocket moving in the space <br>
 
 ## #day-23 - #day-26
->>>> still practiced vanilla javascript
->>>> grasping higher order, callbacks, arrows, array operators etc.
+>>>> still practiced vanilla javascript <br>
+>>>> grasping higher order, callbacks, arrows, array operators etc. <br>
+
+## #day-27 - #day-28
+>>>> got really sick and could not code. BUT <br>
+>>>> I won't give up the 100daysOfCode challenge <br> 
+>>>> sickness is not under our control, so Im keeping this out of the challenge. when i feel a lill better, will try to get back to track from tomorrow, hopefully
 
 
