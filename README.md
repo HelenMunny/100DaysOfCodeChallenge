@@ -34,13 +34,9 @@
 >>>> still practiced vanilla javascript <br>
 >>>> grasping higher order, callbacks, arrows, array operators etc. <br>
 
-## #day-27 - #day-28
+## #day-27 - #day-33
 >>>> got really sick and could not code. BUT <br>
 >>>> I won't give up the 100daysOfCode challenge <br> 
 >>>> sickness is not under our control, so Im keeping this out of the challenge. when i feel a lill better, will try to get back to track from tomorrow, hopefully
-
-## #day29 - #day33
->>>> going through so many stuffs, health is not going well. <br>
->>>> coded for few minutes a day but did not push codes to github
 
 
