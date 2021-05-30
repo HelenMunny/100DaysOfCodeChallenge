@@ -35,8 +35,4 @@
 >>>> grasping higher order, callbacks, arrows, array operators etc. <br>
 
 ## #day-27 - #day-33
->>>> got really sick and could not code. BUT <br>
->>>> I won't give up the 100daysOfCode challenge <br> 
->>>> sickness is not under our control, so Im keeping this out of the challenge. when i feel a lill better, will try to get back to track from tomorrow, hopefully
-
-
+>>>> these days would be out of calculation due to sickness <br>
