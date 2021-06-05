@@ -34,7 +34,10 @@
 >>>> still practiced vanilla javascript <br>
 >>>> grasping higher order, callbacks, arrows, array operators etc. <br>
 
-## #day-27 - #day-33
->>>> these days would be out of calculation due to sickness <br>
+## #day-27 - #day-37
+>>>> UNPRODUCTIVE DUE TO SICKNESS. <br>
+>>>>  these days would be out of calculation due to sickness <br>
 
-## #day34 -#day
+## #day34 -#day46
+>>>> completed 10.5 hours long vanilla javascript tutorial from JOHN SMILGA's youtube channel 'coding addict' <br>
+>>>> starting to create 15 simple but useful projects using vanilla javascript <br>
