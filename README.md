@@ -41,3 +41,5 @@
 ## #day34 -#day46
 >>>> completed 10.5 hours long vanilla javascript tutorial from JOHN SMILGA's youtube channel 'coding addict' <br>
 >>>> starting to create 15 simple but useful projects using vanilla javascript <br>
+## #day47 - #day55
+>>>> done creating 7 simple javascript projects 
