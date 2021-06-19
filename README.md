@@ -12,7 +12,7 @@
  >>>> day 26-35: vanilla js simple projects and css art learning.
  
  
- ## #day-1 #day-2 #day-3 #day-4 #day-5
+ ## #day1 - #day-5
  >>>> done modifying 5 old projects and uploaded to github <br>
  >>>> revised CSS floats, flexbox, grid, bootstrap <br>
  >>>> practiced version control (git & github, git bash, command prompt) <br>
@@ -34,12 +34,17 @@
 >>>> still practiced vanilla javascript <br>
 >>>> grasping higher order, callbacks, arrows, array operators etc. <br>
 
-## #day-27 - #day-37
+## #day-27 - #day-33
 >>>> UNPRODUCTIVE DUE TO SICKNESS. <br>
 >>>>  these days would be out of calculation due to sickness <br>
 
 ## #day34 -#day46
 >>>> completed 10.5 hours long vanilla javascript tutorial from JOHN SMILGA's youtube channel 'coding addict' <br>
 >>>> starting to create 15 simple but useful projects using vanilla javascript <br>
+
 ## #day47 - #day55
 >>>> done creating 7 simple javascript projects 
+
+## #day56 - #day60
+>>>> 60days down! but going slow.. still with vanilla javascript <br>
+>>>> will be building more projects using vanilla js.
